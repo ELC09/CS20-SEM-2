@@ -7,7 +7,7 @@ Purpose: Create a RandomStats application that generates 500 random numbers betw
 
 Author: Elliana Cush
 School: CHHS
-Course: Computer Science 20
+Course: Computer Science 20 Period 3
 
 */
 package Mastery;  //places this class inside the mastery package
